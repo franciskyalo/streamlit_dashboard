@@ -91,7 +91,7 @@ col3, col4 = st.columns(2)
 with col3:
     st.header("Category Revenue💰")
     category_revenue = df.groupby("category")["revenue"].sum().reset_index()
-    plost.donut_chart(data=category_revenue,theta="revenue",color='category',legend='bottom',use_container_width=True)
+    plost.donut_chart(data=category_revenue,theta="revenue",color='category',legend='bottom',use_container_width=True)#
 
 with col4:
     st.header("Top Revenue Products🚀")
