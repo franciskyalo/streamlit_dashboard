@@ -5,7 +5,7 @@ Find the live streamlit dashboard [here](https://francisdashboard.streamlit.app/
 To clone the repo, use;
 
 ```
-git clone https://github.com/franciskyalo/streamlit_dashboard/edit/main/README.md
+git clone https://github.com/franciskyalo/streamlit_dashboard.git
 ```
 
 Set up a virtual enviroment;
