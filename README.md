@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Streamlit](https://img.shields.io/badge/Streamlit-App_Framework-red?logo=streamlit&logoColor=red)![Pandas](https://img.shields.io/badge/Pandas-Data_Manipulation-lightblue?logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-blue?logo=numpy&logoColor=white)[![Requests](https://img.shields.io/badge/Requests-2.26.0-blue.svg?logo=requests)](https://docs.python-requests.org/en/latest/)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)![Streamlit](https://img.shields.io/badge/Streamlit-App_Framework-red?logo=streamlit&logoColor=red)![Pandas](https://img.shields.io/badge/Pandas-Data_Manipulation-lightblue?logo=pandas&logoColor=white)![NumPy](https://img.shields.io/badge/NumPy-Scientific_Computing-blue?logo=numpy&logoColor=white)[![Requests](https://img.shields.io/badge/Requests-blue.svg?logo=requests)](https://docs.python-requests.org/en/latest/)
 
 
 # FRANCIS STORE STREAMLIT DASHBOARD📉
