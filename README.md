@@ -2,6 +2,10 @@
 
 
 # FRANCIS STORE STREAMLIT DASHBOARD📉
+
+![image](https://github.com/franciskyalo/streamlit_dashboard/assets/94622826/b6b2e682-5ac6-43a4-9c60-fb1a1334cea1)
+
+
 This project invoved building a dashboard using streamlit. Data was sourced from an API . [Here](https://fakestoreapi.com/docs) is the api documentation.
 
 **Find the live streamlit dashboard [here](https://francisdashboard.streamlit.app/)**
